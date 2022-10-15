@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;  
+    box-sizing: border-box;
+}
+#main {
+    font-size: 16px;
+    padding: 18px; 
+    background-color: #212529; 
+    text-align: right;
+}
+#main .navbar {
+    margin-right: 2rem;
+    text-decoration: none;
+    color: #FFFFFF8C; 
+}
+#main .navbar1{
+    text-decoration: none;
+    color: #FFFFFF8C; 
+    margin-right: 8rem;
+}
+#first{
+    text-align: center;
+    background-color: #1170FD;
+    color: #FFFFFF;
+    margin:auto;
+    padding: 152px 0 96px;
+}
+#first .sentencefisrt{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin: 0px 0px 8px; 
+}
+#first .sentence{
+    color: #FFFFFF;
+    margin: 0 0 8px;
+    font-size: 20px;
+    padding: 0 146px;
+    font-weight: 100px;;
+    margin-bottom: 2rem;
+}
+
+#first .first_btn{
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+    border-radius: 0.3rem;
+    font-size: 20px; 
+    font-weight: 400;    
+    background-color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+    line-height: 1.5;     
+}
+#about{
+    text-align:left;
+    font-size: 34px;   
+    width: 50% ; 
+    margin: 5rem auto ; 
+    color: rgba(7, 6, 6, 0.745);
+    padding: 144px 0;
+    padding: 0;
+}
+
+#about .abouth1{
+   line-height: 25px;  
+    margin-bottom: 10px;
+    text-align: left;
+    color: #212529;
+    font-size: 30px;
+}
+#about p{
+    margin: 0 0 16px;   
+    color: #212529;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+#about .list{
+    line-height: 25px;  
+    font-size: 18px;    
+    padding: 0 40px;
+}
+#services{
+    background-color: #4f525409;
+    text-align: center;
+    padding: 5rem;
+    line-height: 25px;  
+}
+#services h1 {
+    color: rgb(26, 22, 22);
+    width: 61%;   
+    font-size: 30px;
+    padding: 2rem;
+    line-height: 2rem;
+}
+#services p{
+    text-align: justify;
+    padding: 0rem 19rem;
+    margin: auto;
+    font-size: 20px;
+} 
+#contact{   
+    text-align:left;
+    font-size: 40px;   
+    width: 50% ; 
+    margin: 5rem auto ; 
+    color: rgba(7, 6, 6, 0.745);
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    padding: 0;
+}
+#contact h1{
+    line-height: 30px;  
+    margin-bottom: 10px;
+    text-align: left;
+    color: #212529;
+    font-size: 30px;
+   }
+#contact p{
+    margin: 0 0 16px;   
+    color: #212529;
+    font-size: 20px;
+    margin-bottom: 16px;
+  
+}
+#copyrigth{
+    font-size: 16px;
+    padding: 30px; 
+    background-color: #000000; 
+    text-align: center;
+
+}
+#copyrigth p{
+    color: white;
+}
+
