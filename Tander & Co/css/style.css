@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;  
+    box-sizing: border-box;
+}
+#main {
+    background-image: url(https://www.jewelersmutual.com/sites/default/files/2020-12/What-jewelry-should-you-insure-blog.jpg);
+    background-position: center;    
+    padding: 16rem 0; 
+    text-align: center;
+    background-size: cover;
+    opacity: 0.85;
+    background-attachment: fixed;
+}
+#main a{
+    background-color:rgb(201, 144, 74); 
+    color: bisque;
+    font-weight: bold;
+    padding: 20px 30px;
+    border-radius: 5rem;
+    font-size: 20px;   
+    text-decoration: none;
+    
+}
+#main h1{
+    color: rgb(87, 54, 14);
+    font-size: 4rem;
+    margin-bottom: 10px;
+} 
+#main h4{
+    color: rgb(87, 54, 14);
+    font-size: 50px;
+    font-style: italic;
+    margin-bottom: 50px;
+} 
+#second{ 
+    text-align: center;       
+    padding: 6rem 0;
+    background-color: rgba(209, 125, 72, 0.096);
+    opacity: .90; 
+    line-height:3rem;
+   
+}
+ #second h1{    
+    font-size: 2rem;
+    color: rgb(87, 54, 14);
+}
+#second h3{
+    font-size: 20px;
+    color: rgb(87, 54, 14);
+    margin-bottom: 50px; 
+    padding: 0 25rem;   
+}
+#second .second_btn a{
+    color:rgb(87, 54, 14);
+    text-decoration: none;
+   
+}
+#second .third_btn {
+    font-weight: bold;
+    padding: 20px 40px;
+    border-radius: 5rem;
+    font-size: 20px;   
+    background-color:rgb(201, 144, 74); 
+    color: bisque;
+    opacity: 0.85; 
+    text-decoration: none;  
+}
+#third {
+    background-image: url(https://www.oberlo.com/media/1613507835-jewelry.jpeg);
+    background-position: center;    
+    padding: 12rem 0; 
+    text-align: center;
+    background-size: cover;
+    opacity: 0.98;
+    filter: brightness(100%);
+    background-attachment: fixed;
+  
+}
+#third a{
+    background-color:rgb(201, 144, 74); 
+    color: bisque;
+    font-weight: bold;
+    padding: 20px 30px;
+    border-radius: 5rem;
+    font-size: 20px;
+    text-decoration: none;
+       
+}
+#third h2{
+    color: rgb(87, 54, 14);
+    font-size: 4rem;
+    margin-bottom: 2rem  ;
+} 
+#four{
+    text-align: center;       
+    padding: 6rem 0;
+    background-color: rgba(209, 125, 72, 0.096);
+    opacity: .90; 
+    line-height:3rem;
+}
+#four h2{    
+    font-size: 2rem;
+    color: rgb(87, 54, 14);
+    margin-bottom: 2rem;
+}
+#four a{
+    font-weight: bold;
+    padding: 20px 40px;
+    border-radius: 5rem;
+    font-size: 20px;   
+    background-color:rgb(201, 144, 74); 
+    color: bisque;
+    opacity: 0.85; 
+    text-decoration: none;  
+}
+ 
+
+
+    
